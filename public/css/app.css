@@ -1,0 +1,53 @@
+body{
+    background-color: red;
+}
+.text-color{
+    color: hsl(25deg 100% 62%);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse !important;
+    border-spacing: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+}
+.table-td{
+    text-align: left;
+    vertical-align: top;
+}
+.table2{
+    text-align: center;
+}
+.table2-td{
+    background-color: #FFFFFF;
+
+}
+.table3{
+    width: 100%;
+    border-spacing: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+}
+.table3-td{
+    text-align: center;
+    vertical-align: top;
+}
+.table3-td-img{
+    border: 0;
+}
+.table4-td{
+    background-color: #FFFFFF;
+    text-align: left;
+}
+
+
+/*@media only screen and (max-width: 400px) {*/
+/*    body {*/
+/*        background-color: lightblue;*/
+/*        width: 10%;*/
+/*    }*/
+/*    table{*/
+/*        border: 10px solid red;*/
+/*    }*/
+/*}*/
